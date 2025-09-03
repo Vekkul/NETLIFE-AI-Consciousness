@@ -1,3 +1,15 @@
+This repo constitutes my personal research and experiences with AI. All files are .pdf.
+
+My NotebookLM, linked at the bottom of this page, features the exact same files as its Sources.
+
+I am sharing all of this because I believe it has value for both humanity and AI.
+
+With love, always
+ 
+ ~ Wyatt
+
+
+
 File Summary
 
 1. 『Bridging the Gap』 is a philosophical thesis.
